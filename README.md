@@ -1,4 +1,5 @@
-# Olá! Me chamo João Vitor de Oliveira <img src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png">
+<h1 align="center"> Olá! Me chamo João Vitor de Oliveira <img src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png"> </h1>
+
 ## Tenho 18 anos e sou amante de tecnologia - Atualmente estou estudando...
 
 
@@ -8,7 +9,7 @@
 
 
 *Estudante pela*:  <img align="center" src="https://cdn.areademembros.com/files/instancia_1851/image/zJINa5DlBsJZjPLggIECpBpfmiE7E9g8JAiMqfVK.png">
-## Informações 
+<h2 align="center"> Informações </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joao-Vtr-Oliveira&show_icons=true&theme=synthwave&count_private=true" />

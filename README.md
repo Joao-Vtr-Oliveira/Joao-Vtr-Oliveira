@@ -7,8 +7,8 @@
 *Estudante pela*:  <img align="center" src="https://cdn.areademembros.com/files/instancia_1851/image/zJINa5DlBsJZjPLggIECpBpfmiE7E9g8JAiMqfVK.png">
 ## Informações 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-Vtr-Oliveira&show_icons=true&theme=synthwave&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vtr-Oliveira&layout=compact&theme=synthwave&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Joao-Vtr-Oliveira&show_icons=true&theme=synthwave&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vtr-Oliveira&layout=compact&theme=synthwave&count_private=true" />
 
 ## Redes sociais e contatos:
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-b8b190252/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

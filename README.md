@@ -12,7 +12,7 @@
 <h2 align="center"> Informações </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Vtr-Oliveira&show_icons=true&theme=synthwave&count_private=true" />
+  <img width=335px src="https://github-readme-stats.vercel.app/api?username=Joao-Vtr-Oliveira&show_icons=true&theme=synthwave&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vtr-Oliveira&layout=compact&theme=synthwave&count_private=true" />
 </div>
 

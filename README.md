@@ -3,9 +3,12 @@
 ## Tenho 18 anos e sou amante de tecnologia - Atualmente estou estudando...
 
 
-- <a href="https://github.com/Joao-Vtr-Oliveira"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-- <a href="https://github.com/Joao-Vtr-Oliveira"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-- <a href="https://github.com/Joao-Vtr-Oliveira"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+- <a href="https://github.com/Joao-Vtr-Oliveira"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+- <a href="https://github.com/Joao-Vtr-Oliveira"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+- <a href="https://github.com/Joao-Vtr-Oliveira"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+- <a href="https://github.com/Joao-Vtr-Oliveira"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+- <a href="https://github.com/Joao-Vtr-Oliveira"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+
 
 
 *Estudante pela*:  <a href="https://github.com/Joao-Vtr-Oliveira"><img align="center" src="https://cdn.areademembros.com/files/instancia_1851/image/zJINa5DlBsJZjPLggIECpBpfmiE7E9g8JAiMqfVK.png"></a>

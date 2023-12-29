@@ -16,8 +16,8 @@
 <h2 align="center"> Informações </h2>
 
 <div align="center">
-  <a href="https://github.com/Joao-Vtr-Oliveira"><img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joao-Vtr-Oliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/Joao-Vtr-Oliveira"><img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joao-Vtr-Oliveira&langs_count=8&theme=synthwave"/></a>
+  <a href="https://github.com/Joao-Vtr-Oliveira"><img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joao-Vtr-Oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/Joao-Vtr-Oliveira"><img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joao-Vtr-Oliveira&langs_count=8&theme=dark"/></a>
 </div>
 
 ## Redes sociais e contatos:

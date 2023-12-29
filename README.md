@@ -2,6 +2,8 @@
 
 ## Tenho 18 anos e sou amante de tecnologia - Atualmente estou estudando...
 
+teste
+
 
 - <a href="https://github.com/Joao-Vtr-Oliveira"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 - <a href="https://github.com/Joao-Vtr-Oliveira"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>

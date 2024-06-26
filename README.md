@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Me chamo João Vitor de Oliveira!</h1>
+<h1 align="center"> Olá, me chamo João Vitor de Oliveira!</h1>
 
 > <h2 align="center">Desenvolvedor fullstack em busca de melhoria constante</h2>
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Joao-Vtr-Oliveira">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,react,tailwind,redux,nodejs,mongodb,mysql,postgres,sequelize,prisma,postman,nextjs,vue,vuetify&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,react,tailwind,redux,nodejs,mongodb,mysql,postgres,sequelize,prisma,postman,nextjs,docker,vue,vuetify&perline=5" />
   </a>
 </p>
 

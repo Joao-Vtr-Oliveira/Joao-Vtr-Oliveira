@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Joao-Vtr-Oliveira">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,react,tailwind,redux,nodejs,mongodb,mysql,postgres,sequelize,prisma,postman,nextjs,docker,vue,vuetify&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,react,tailwind,redux,nodejs,mongodb,mysql,postgres,sequelize,prisma,postman,nextjs,docker,vue,vuetify,jest&perline=5" />
   </a>
 </p>
 

@@ -46,3 +46,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=joaosamuca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=7617c4&bar_color_cover=false" />
   </a>
 </p>
+
+<div align='center'>
+  <a align='center' href="https://wakatime.com/@018d69ee-e589-4a31-81eb-a8c33e2ebbe9"><img src="https://wakatime.com/badge/user/018d69ee-e589-4a31-81eb-a8c33e2ebbe9.svg" alt="Total time coded since Feb 2 2024" /></a>
+</div>

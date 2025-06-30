@@ -41,16 +41,16 @@
 
 <h2 align="center">Outros:</h2>
 
+<div align='center'>
+  <a align='center' href="https://wakatime.com/@018d69ee-e589-4a31-81eb-a8c33e2ebbe9"><img src="https://wakatime.com/badge/user/018d69ee-e589-4a31-81eb-a8c33e2ebbe9.svg" alt="Total time coded since Feb 2 2024" /></a>
+</div>
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=joaosamuca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=7617c4&bar_color_cover=false" />
   </a>
 </p>
 
-<div align='center'>
-  <a align='center' href="https://wakatime.com/@018d69ee-e589-4a31-81eb-a8c33e2ebbe9"><img src="https://wakatime.com/badge/user/018d69ee-e589-4a31-81eb-a8c33e2ebbe9.svg" alt="Total time coded since Feb 2 2024" /></a>
-</div>
+---
 
-
-
-<div align="center"> <a href="https://pomodoro-three-ruddy.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/83639361-3859-42d5-b0a8-26fd15b4b1e2" alt="Capa do projeto Pomodoro" width="40%" /> </a> </div> <p align="center"> <strong>🎯 Aplicação desenvolvida em Angular 19 com TailwindCSS e Jest</strong><br/> Gerencie seus ciclos de estudo com a técnica Pomodoro, com suporte a múltiplas configurações e uma rádio Lo-Fi embutida. </p> <div align="center"> <a href="https://pomodoro-three-ruddy.vercel.app/" target="_blank"> <img alt="Ver projeto" src="https://img.shields.io/badge/🧪 Ver projeto online-800080?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/Joao-Vtr-Oliveira/pomodoro" target="_blank"> <img alt="Código-fonte" src="https://img.shields.io/badge/🔗 Código fonte-24292e?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+<div align="center"> <a href="https://pomodoro-three-ruddy.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/83639361-3859-42d5-b0a8-26fd15b4b1e2" alt="Capa do projeto Pomodoro" width="40%" /> </a> </div> <p align="center"> <strong>🎯 Aplicação desenvolvida em Angular 19 com TailwindCSS e Angular Material</strong><br/> Gerencie seus ciclos de estudo com a técnica Pomodoro, com suporte a múltiplas configurações e uma rádio Lo-Fi embutida. </p> <div align="center"> <a href="https://pomodoro-three-ruddy.vercel.app/" target="_blank"> <img alt="Ver projeto" src="https://img.shields.io/badge/🧪 Ver projeto online-800080?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/Joao-Vtr-Oliveira/pomodoro" target="_blank"> <img alt="Código-fonte" src="https://img.shields.io/badge/🔗 Código fonte-24292e?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>

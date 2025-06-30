@@ -19,7 +19,7 @@
 
 <h2 align="center">Informações:</h2>
 
-<p align="center">S
+<p align="center">
   <a href="https://github.com/Joao-Vtr-Oliveira">
     <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joao-Vtr-Oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>

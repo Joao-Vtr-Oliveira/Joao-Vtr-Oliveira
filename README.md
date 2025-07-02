@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<h2 align="center">Redes sociais e contatos:</h2>
+<h2 align="center">Redes sociais, contatos e portfólio:</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-b8b190252/" target="_blank">
@@ -38,6 +38,19 @@
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 </p>
+
+<h3 align="center">🚀 Conheça meu portfólio</h3>
+
+<p align="center">
+  Desenvolvi meu <strong>portfólio pessoal</strong> com Angular 20, TailwindCSS e Angular Material para reunir meus projetos, habilidades e experiências em um só lugar.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-joao-v.vercel.app/" target="_blank">
+    <img alt="Acessar Portfólio" src="https://img.shields.io/badge/🌐 Acessar portfólio-800080?style=for-the-badge&logo=angular&logoColor=white" />
+  </a>
+</p>
+
 
 <h2 align="center">Outros:</h2>
 
@@ -54,3 +67,4 @@
 ---
 
 <div align="center"> <a href="https://pomodoro-three-ruddy.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/83639361-3859-42d5-b0a8-26fd15b4b1e2" alt="Capa do projeto Pomodoro" width="40%" /> </a> </div> <p align="center"> <strong>🎯 Aplicação desenvolvida em Angular 19 com TailwindCSS e Angular Material</strong><br/> Gerencie seus ciclos de estudo com a técnica Pomodoro, com suporte a múltiplas configurações e uma rádio Lo-Fi embutida. </p> <div align="center"> <a href="https://pomodoro-three-ruddy.vercel.app/" target="_blank"> <img alt="Ver projeto" src="https://img.shields.io/badge/🧪 Ver projeto online-800080?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/Joao-Vtr-Oliveira/pomodoro" target="_blank"> <img alt="Código-fonte" src="https://img.shields.io/badge/🔗 Código fonte-24292e?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+

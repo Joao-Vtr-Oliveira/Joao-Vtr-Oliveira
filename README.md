@@ -1,11 +1,26 @@
 <div align='center'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=580C67&multiline=true&width=685&lines=Ol%C3%A1!+me+chamo+Jo%C3%A3o+Vitor+de+Oliveira!;Desenvolvedor+fullstack+em+busca+de+melhoria+constante" alt="Typing SVG" /></a>
 </div>
-<h3 align="center">Ferramentas:</h3>
 
+
+<h2 align="center">Ferramentas:</h2>
+<h3 align="center">Front end</h3>
 <p align="center">
   <a href="https://github.com/Joao-Vtr-Oliveira">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,react,tailwind,redux,nodejs,express,mongodb,mysql,postgres,sequelize,prisma,postman,nextjs,docker,vue,vuetify,angular&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,next,vue,vuetify,tailwind,redux&perline=5" />
+  </a>
+</p>
+<h3 align="center">Back end</h3>
+<p align="center">
+  <a href="https://github.com/Joao-Vtr-Oliveira">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,mongo,mysql,postgres&perline=5" />
+  </a>
+</p>
+
+<h3 align="center">Ferramentas/Teste</h3>
+<p align="center">
+  <a href="https://github.com/Joao-Vtr-Oliveira">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,jest&perline=5" />
   </a>
 </p>
 
@@ -13,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/Joao-Vtr-Oliveira">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jest&perline=5" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&perline=5" />
   </a>
 </p>
 

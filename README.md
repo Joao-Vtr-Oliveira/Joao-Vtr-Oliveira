@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/Joao-Vtr-Oliveira">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&perline=5" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet&perline=5" />
   </a>
 </p>
 

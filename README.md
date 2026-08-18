@@ -1,9 +1,21 @@
 <div align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=580C67&multiline=true&width=685&lines=Ol%C3%A1!+me+chamo+Jo%C3%A3o+Vitor+de+Oliveira!;Desenvolvedor+fullstack+em+busca+de+melhoria+constante" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=8B5CF6&multiline=true&width=685&lines=Ol%C3%A1!+me+chamo+Jo%C3%A3o+Vitor+de+Oliveira!;Desenvolvedor+Fullstack+em+busca+de+melhoria+constante" alt="Typing SVG" /></a>
 </div>
 
+<h2 align="center">Sobre mim</h2>
 
-<h2 align="center">Ferramentas:</h2>
+<p align="center">
+  Sou Desenvolvedor Fullstack e gosto de criar aplicações web úteis, bem estruturadas
+  e fáceis de manter. Tenho experiência com Angular, TypeScript, C#/.NET, PostgreSQL,
+  Docker, Git/GitHub e Azure, trabalhando também com APIs, testes automatizados,
+  integrações e deploys.
+</p>
+
+<p align="center">
+  Estou sempre buscando evoluir por meio de boas práticas, novos projetos e aprendizado contínuo.
+</p>
+
+<h2 align="center">Tech Stack</h2>
 <h3 align="center">Front end</h3>
 <p align="center">
   <a href="https://github.com/Joao-Vtr-Oliveira">
@@ -13,14 +25,14 @@
 <h3 align="center">Back end</h3>
 <p align="center">
   <a href="https://github.com/Joao-Vtr-Oliveira">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,mongo,mysql,postgres&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,prisma,sequelize,mongo,mysql,postgres&perline=5" />
   </a>
 </p>
 
-<h3 align="center">Ferramentas/Teste</h3>
+<h3 align="center">Ferramentas e ambiente</h3>
 <p align="center">
   <a href="https://github.com/Joao-Vtr-Oliveira">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,jest&perline=5" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,jest,azure,linux&perline=5" />
   </a>
 </p>
 
@@ -28,8 +40,26 @@
 
 <p align="center">
   <a href="https://github.com/Joao-Vtr-Oliveira">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet&perline=5" />
+    <img src="https://skillicons.dev/icons?i=linux,bash&perline=5" />
   </a>
+</p>
+
+<p align="center">
+  Aprofundando meus conhecimentos em C#/.NET, Linux e Bash.
+</p>
+
+<h2 align="center">Projetos em destaque</h2>
+
+<p align="center">
+  <a href="https://dnd-dm-helper.vercel.app/" target="_blank">
+    <img alt="D&D Dungeon Master Helper" src="https://img.shields.io/badge/D%26D%20Dungeon%20Master%20Helper-6D28D9?style=for-the-badge&logo=dungeonsanddragons&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Joao-Vtr-Oliveira/dnd-dm-helper">D&D Dungeon Master Helper</a>
+  reúne ferramentas para mestres de D&D, como encontros, fichas homebrew, calendário,
+  backup e sincronização local.
 </p>
 
 <h2 align="center">Informações:</h2>
@@ -57,7 +87,9 @@
 <h3 align="center">🚀 Conheça meu portfólio</h3>
 
 <p align="center">
-  Desenvolvi meu <strong>portfólio pessoal</strong> com Angular 20, TailwindCSS e Angular Material para reunir meus projetos, habilidades e experiências em um só lugar.
+  Desenvolvi meu <strong>portfólio pessoal</strong> com Angular 20, TypeScript, TailwindCSS,
+  Angular Material, Jest, componentes standalone e Signals para reunir meus projetos,
+  habilidades e experiências em um só lugar.
 </p>
 
 <p align="center">
@@ -75,11 +107,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=joaosamuca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=7617c4&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=joaosamuca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" />
   </a>
 </p>
-
----
-
-<div align="center"> <a href="https://pomodoro-three-ruddy.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/83639361-3859-42d5-b0a8-26fd15b4b1e2" alt="Capa do projeto Pomodoro" width="40%" /> </a> </div> <p align="center"> <strong>🎯 Aplicação desenvolvida em Angular 19 com TailwindCSS e Angular Material</strong><br/> Gerencie seus ciclos de estudo com a técnica Pomodoro, com suporte a múltiplas configurações e uma rádio Lo-Fi embutida. </p> <div align="center"> <a href="https://pomodoro-three-ruddy.vercel.app/" target="_blank"> <img alt="Ver projeto" src="https://img.shields.io/badge/🧪 Ver projeto online-800080?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/Joao-Vtr-Oliveira/pomodoro" target="_blank"> <img alt="Código-fonte" src="https://img.shields.io/badge/🔗 Código fonte-24292e?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 

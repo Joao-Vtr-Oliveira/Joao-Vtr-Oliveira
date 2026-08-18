@@ -44,10 +44,6 @@
   </a>
 </p>
 
-<p align="center">
-  Aprofundando meus conhecimentos em C#/.NET, Linux e Bash.
-</p>
-
 <h2 align="center">Projetos em destaque</h2>
 
 <p align="center">

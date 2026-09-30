@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Joao-Vtr-Oliveira/dnd-dm-helper">D&D Dungeon Master Helper</a>
+  <a href="https://dnd-dm-helper.vercel.app/">D&D Dungeon Master Helper</a>
   reúne ferramentas para mestres de D&D, como encontros, fichas homebrew, calendário,
   backup e sincronização local.
 </p>
